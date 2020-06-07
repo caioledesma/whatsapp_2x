@@ -1,0 +1,12 @@
+.button{
+    color: grey;
+    font-size: 1rem;
+    font-weight: bold;
+    /* background-color: transparent; */
+    
+}
+
+.button:active{
+    color: #25d366;
+    
+}
