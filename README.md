@@ -18,7 +18,7 @@ WhatsApp Web 2x <br />
 
 <h3 align="center">  
   <a href="#information_source-sobre">Sobre</a> |
-  <a href="#wrench_link-instalando">Instalando</a> |
+  <a href="#wrench-instalando">Instalando</a> | 
   <a href="#interrobang-motivo">Como Funciona</a> | 
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> | 
   <a href="#wave-autor">Autor</a> 
