@@ -4,12 +4,9 @@ WhatsApp Web 2x <br />
 
 <br />
 <p align="center">
-<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/logo-whatsapp2x_JigvRqG3y.png" width="350"><p>
-
+<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/logo-whatsapp2x_JigvRqG3y.png" width="350"></p>
 <p align="center"> 
-<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/whatsapp2x-gif1_u1msWXJ3e.gif" width="900">
-</p>
-
+<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/whatsapp2x-gif1_u1msWXJ3e.gif" width="900"></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/caioledesma/" >
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Caio%20Ledesma-blue?style=flat-square&logo=linkedin">
@@ -30,8 +27,6 @@ WhatsApp Web 2x <br />
 
 Aplicação de utilidade pública! Para não ter mais problemas perdendo tempo ouvido áudios no WhatsApp Web, decidi criar essa extensão do Google Chrome para acelerar a velocidade dos áudios em até 2X. Áudios intermináveis, nunca mais.
 
-<img alt="Gif cadastrando um ponto" src="https://ik.imagekit.io/tdrippvoj8/cadastro-ponto-ecoleta_m_r0uszvi.gif" width=800>
-<br />
 
 ## :wrench: Instalando
 
@@ -41,7 +36,6 @@ Para instalar é bem simples:
 3. No canto direito do navegador ative o Modo do desenvolvedor
 4. Arraste a pasta inteira para o navegador
 5. Atualize a página do WhatsApp Web 
-
 
 <br />
 
