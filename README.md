@@ -1,42 +1,70 @@
-<h2 align="center">
-NLW 
-</h2>
+<h1 align="center">
+WhatsApp Web 2X <br />
+</h1>
+
+<br />
+<p align="center">
+<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/logo-whatsapp2x_JigvRqG3y.png" width="350"><p>
+<br />
 
 <p align="center"> 
-<img src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=50" width="300" heigth="300">
+<img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/whatsapp2x-gif1_u1msWXJ3e.gif" width="900">
 </p>
 
 <p align="center">
-  <a href="LICENSE" >
-<img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  <a href="https://www.linkedin.com/in/caioledesma/" >
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Caio%20Ledesma-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
 
 <h3 align="center">  
   <a href="#information_source-sobre">Sobre</a> |
-  <a href="#interrobang-motivo">Motivo</a> | 
+  <a href="#wrench-instalacao">Instalação</a> |
+  <a href="#interrobang-motivo">Como Funciona</a> | 
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> | 
-  <a href="#licença">Licença</a> 
+  <a href="#wave-autor">Autor</a> 
 </h3>
 
-<img src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=50" width="1200">
+<br />
 
 ## :information_source: Sobre
 
-Do que se trata é que 
+Aplicação de utilidade pública! Para não ter mais problemas perdendo tempo ouvido áudios no WhatsApp Web, decidi criar essa extensão do Google Chrome para acelerar a velocidade dos áudios em até 2X. Áudios intermináveis, nunca mais.
 
-## :interrobang: Motivo
+<img alt="Gif cadastrando um ponto" src="https://ik.imagekit.io/tdrippvoj8/cadastro-ponto-ecoleta_m_r0uszvi.gif" width=800>
 
-O motivo de realizar é 
+<br />
+
+### :wrench: Instalação
+
+Para instalar é bem simples: 
+1. Baixe o ZIP
+2. No navegador chrome digite: chrome://extensions/
+3. No canto direito do navegador ative o Modo do desenvolvedor
+4. Arraste a pasta inteira para o navegador
+5. Atualize a página do WhatsApp Web 
+
+
+<br />
+
+## :question: Como Funciona
+
+Aplicação bem simples criada como uma extensão do Google Chrome no modo desenvolvedor. Tutorial em vídeo do: <a href="https://www.youtube.com/watch?v=j0Ih1xVyKbY">Programador BR</a>
+
+<br />
 
 ## :rocket: Tecnologias Utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- Javascript
-- CSS
 - HTML
-- 
+- Javascritp
+- JSON
+- CSS
 
-## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<br />
+
+---
+
+
+### :wave: Autor
+In the process to be a great Product Engineer... join me! 
+
