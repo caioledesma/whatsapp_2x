@@ -1,11 +1,10 @@
 <h1 align="center">
-WhatsApp Web 2X <br />
+WhatsApp Web 2x <br />
 </h1>
 
 <br />
 <p align="center">
 <img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/logo-whatsapp2x_JigvRqG3y.png" width="350"><p>
-<br />
 
 <p align="center"> 
 <img src="https://ik.imagekit.io/tdrippvoj8/whatsapp2x/whatsapp2x-gif1_u1msWXJ3e.gif" width="900">
@@ -19,7 +18,7 @@ WhatsApp Web 2X <br />
 
 <h3 align="center">  
   <a href="#information_source-sobre">Sobre</a> |
-  <a href="#wrench-instalacao">Instalação</a> |
+  <a href="#wrench_link-instalando">Instalando</a> |
   <a href="#interrobang-motivo">Como Funciona</a> | 
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> | 
   <a href="#wave-autor">Autor</a> 
@@ -32,10 +31,9 @@ WhatsApp Web 2X <br />
 Aplicação de utilidade pública! Para não ter mais problemas perdendo tempo ouvido áudios no WhatsApp Web, decidi criar essa extensão do Google Chrome para acelerar a velocidade dos áudios em até 2X. Áudios intermináveis, nunca mais.
 
 <img alt="Gif cadastrando um ponto" src="https://ik.imagekit.io/tdrippvoj8/cadastro-ponto-ecoleta_m_r0uszvi.gif" width=800>
-
 <br />
 
-### :wrench: Instalação
+## :wrench: Instalando
 
 Para instalar é bem simples: 
 1. Baixe o ZIP
