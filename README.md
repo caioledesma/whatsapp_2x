@@ -14,38 +14,38 @@ WhatsApp Web 2x <br />
 </p>
 
 <h3 align="center">  
-  <a href="#information_source-sobre">Sobre</a> |
-  <a href="#wrench-instalando">Instalando</a> | 
-  <a href="#interrobang-motivo">Como Funciona</a> | 
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a> | 
-  <a href="#wave-autor">Autor</a> 
+  <a href="#information_source-sobre">About</a> |
+  <a href="#wrench-instalando">Installing</a> | 
+  <a href="#interrobang-motivo">How it works</a> | 
+  <a href="#rocket-tecnologias-utilizadas">Technologies</a> | 
+  <a href="#wave-autor">Author</a> 
 </h3>
 
 <br />
 
-## :information_source: Sobre
+## :information_source: About
 
-Aplicação de utilidade pública! Para não ter mais problemas perdendo tempo ouvido áudios no WhatsApp Web, decidi criar essa extensão do Google Chrome para acelerar a velocidade dos áudios em até 2X. Áudios intermináveis, nunca mais.
+Public utility application! In order not to have no more problems wasting time listening to audios on WhatsApp Web, I created the Google Chrome Extension to accelerate the speed of audios by up to 2X. Endless audios, never again.
 
 
-## :wrench: Instalando
+## :wrench: Installing
 
-Para instalar é bem simples: 
-1. Baixe o ZIP
-2. No navegador chrome digite: chrome://extensions/
-3. No canto direito do navegador ative o Modo do desenvolvedor
-4. Arraste a pasta inteira para o navegador
-5. Atualize a página do WhatsApp Web 
-
-<br />
-
-## :question: Como Funciona
-
-Aplicação bem simples criada como uma extensão do Google Chrome no modo desenvolvedor. Tutorial em vídeo do: <a href="https://www.youtube.com/watch?v=j0Ih1xVyKbY">Programador BR</a>
+To install is very simple:
+1. Download the ZIP
+2. In the chrome browser type: chrome: // extensions /
+3. In the right corner of the browser, activate Developer Mode
+4. Drag the entire folder to the browser
+5. Refresh the WhatsApp Web page
 
 <br />
 
-## :rocket: Tecnologias Utilizadas
+## :question: How it works
+
+Very simple application created as a Google Chrome extension in developer mode. Inspirde by: <a href="https://www.youtube.com/watch?v=j0Ih1xVyKbY">Programador BR</a>
+
+<br />
+
+## :rocket: Technologies
 
 - HTML
 - Javascritp
@@ -57,6 +57,6 @@ Aplicação bem simples criada como uma extensão do Google Chrome no modo desen
 ---
 
 
-### :wave: Autor
+### :wave: Author
 In the process to be a great Product Engineer... join me! 
 
