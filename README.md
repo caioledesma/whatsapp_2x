@@ -14,11 +14,11 @@ WhatsApp Web 2x <br />
 </p>
 
 <h3 align="center">  
-  <a href="#information_source-sobre">About</a> |
-  <a href="#wrench-instalando">Installing</a> | 
-  <a href="#interrobang-motivo">How it works</a> | 
-  <a href="#rocket-tecnologias-utilizadas">Technologies</a> | 
-  <a href="#wave-autor">Author</a> 
+  <a href="#information_source-about">About</a> |
+  <a href="#wrench-installing">Installing</a> | 
+  <a href="#question-how-it-works">How it works</a> | 
+  <a href="#rocket-technologies">Technologies</a> | 
+  <a href="#wave-author">Author</a> 
 </h3>
 
 <br />
